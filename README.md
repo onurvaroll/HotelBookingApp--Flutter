@@ -5,7 +5,7 @@ In the process of being updated.
 The application I made during my 2024 summer internship.
 
 I update the missing and improvable parts as I find time.
-
+<img src="[http://url/to/img.png](https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856641.png)" alt="alt text" width="320" height="180">
  ![Alternatif metin](https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856641.png)
 
 
