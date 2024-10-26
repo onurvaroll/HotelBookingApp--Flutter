@@ -6,17 +6,7 @@ The application I made during my 2024 summer internship.
 
 I update the missing and improvable parts as I find time.
 
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856641.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856648.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/imagesScreenshot_1729856676.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856692.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856700.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856714.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856717.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856724.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856739.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856760.png" alt="alt text" width="108" height="192">
-<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856810.png" alt="alt text" width="108" height="192">
+<img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856641.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856648.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856676.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856692.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856700.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856714.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856717.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856724.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856739.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856760.png" alt="alt text" width="108" height="192"><img src="https://github.com/onurvaroll/HotelBookingApp--Flutter/blob/main/images/Screenshot_1729856810.png" alt="alt text" width="108" height="192">
 
 
 
