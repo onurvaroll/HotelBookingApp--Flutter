@@ -1,6 +1,13 @@
 # hotel
 
+In the process of being updated.
+
+The application I made during my 2024 summer internship.
+I update the missing and improvable parts as I find time.
 A new Flutter project.
+
+
+
 
 ## Getting Started
 
